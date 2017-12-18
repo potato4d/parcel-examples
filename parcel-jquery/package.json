@@ -1,0 +1,12 @@
+{
+  "name": "parcel-jquery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
